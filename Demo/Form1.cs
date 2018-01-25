@@ -23,6 +23,7 @@ namespace Demo
 
         private void btCong_Click(object sender, EventArgs e)
         {
+// thang son hach dich
             double a = double.Parse(TxtA.text);
             double b = double.Parse(TxtB.text);
             double c = a + b;
